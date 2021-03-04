@@ -56,11 +56,8 @@ Design a Flask API based on the queries that you have just developed.
 
 ### Routes
 
-* `/`
-
-  * Home page.
-
-  * List all routes that are available.
+ 
+ * List all routes that are available.
 
 * `/api/v1.0/precipitation`
 
